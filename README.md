@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Bachelor's+in+Computer+Science;Full+Stack+Developer;Software+Engineer;DevOps+Enthusiast;Team+Leader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Ingenieur+Sunny;Bachelor's+in+Computer+Science;Full+Stack+Developer;Software+Engineer;DevOps+Enthusiast;Team+Leader)](https://git.io/typing-svg)
 
 # Hey there, I'm Sunny Patel! 🤙
 
