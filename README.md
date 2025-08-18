@@ -8,7 +8,7 @@ I'm a Computer Science student with a passion for technology and problem-solving
 
 ## About Me
 
-🎓 Pursuing a Bachelor's in Computer Science, focusing on software development and system optimization.
+🎓 Diploma & Bachelor’s in Computer Science, specialized in software development and system optimization.
 
 🌱 Passionate about AI, software development, and all things tech.
 
