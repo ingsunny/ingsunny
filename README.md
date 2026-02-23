@@ -1,25 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Bachelor's+in+Computer+Science;Full+Stack+Developer;Software+Engineer;DevOps+Enthusiast;Team+Leader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Bachelor's+in+Computer+Science+Completed;Full+Stack+Developer;Software+Engineer;DevOps+Enthusiast;Team+Leader)](https://git.io/typing-svg)
 
 # Hey there, I'm Sunny Patel! 🤙
 
-I'm a Computer Science student with a passion for technology and problem-solving.
+I’m a Computer Science graduate with a strong passion for technology and problem-solving.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingsunny/)&nbsp;
 
 ## About Me
 
-🎓 Diploma & Bachelor’s in Computer Science, specialized in software development and system optimization.
+🎓 Completed Diploma & Bachelor’s in Computer Science, with specialization in software development and system optimization.
 
-🌱 Passionate about AI, software development, and all things tech.
+🌱 Passionate about AI, software engineering, and building impactful tech solutions.
 
-🔧 Skilled in crafting clean, efficient code and solving complex problems.
+🔧 Experienced in crafting clean, scalable, and efficient applications.
 
-🔗 Open to collaboration on scalable applications and cutting-edge tech projects!
+🔗 Open to collaborating on scalable systems and innovative technology projects.
 
 ## Language and Frameworks
-
-<!-- [<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="35">](https://www.java.com/) -->
-<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="35">](https://www.typescriptlang.org/) -->
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="35">](https://github.com/ingsunny)&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="35">](https://www.python.org/)&nbsp;
@@ -34,16 +31,6 @@ I'm a Computer Science student with a passion for technology and problem-solving
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-512.png" height="38">](https://laravel.com/)&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30">](https://tailwindcss.com/)&nbsp;
 
-<!-- [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7PGd9PQ0AVQGTzx4K0HKeYWSgLVpz9tEJA&s" height="35">](https://github.com/ingsunny) -->
-
-<!-- [<img src="https://static.canva.com/web/images/8439b51bb7a19f6e65ce1064bc37c197.svg" height="35">](https://github.com/ingsunny) -->
-
-<!-- ## GitHub Statistics
-
-[<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ingsunny&show_icons=true&locale=en&layout=compact" alt="ingsunny" />](https://github.com/ingsunny)
-&nbsp;
-[<img src="https://github-readme-stats.vercel.app/api?username=ingsunny&show_icons=true&locale=en" alt="ingsunny" />](https://github.com/ingsunny) -->
-
 ## Tools and Technologies
 
 [<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" height="35">](https://www.mysql.com/)&nbsp;
@@ -55,12 +42,7 @@ I'm a Computer Science student with a passion for technology and problem-solving
 [<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="35">](https://github.com/ingsunny)&nbsp;
 [<img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" height="35">](https://github.com/ingsunny)&nbsp;
 
-## Goals for 2025
-
-- 🌟 Master React Native, Next.js, and advanced full-stack frameworks.
-- 💻 Deepen expertise in AWS and cloud deployment.
-- 🎯 Build scalable, secure, real-time applications.
 
 ## Get in Touch
 
-Feel free to reach out to me on LinkedIn. Let's build something awesome together!
+Feel free to connect with me on LinkedIn — let’s build something impactful together.
